@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: mkong@postech.ac.kr
     phone: 82)10 2960 8767
-    website: === #do not add http://
-    linkedin: ===
+    website: 
+    linkedin: 
     github: devilkong
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -33,24 +33,20 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      aaa
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
