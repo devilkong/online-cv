@@ -18,8 +18,8 @@ sidebar:
     linkedin: 
     github: devilkong
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    gitlab: 
+    bitbucket: 
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -45,8 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      aaa
-      
+            
 education:
     - degree: MSc in electrical engineering
       university: POSTECH
