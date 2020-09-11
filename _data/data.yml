@@ -68,10 +68,10 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: -
+      - title: |
         link: "#"
-        authors: -
-        conference: -
+        authors: |
+        conference: |
 
  
 skills:
