@@ -43,8 +43,8 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-    summary: |Myong Kong is currently a Master student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab. His current research area is CAD & ML for Physical Design. Before joining POSTECH, he received a Bachelor of Science degree at Hanyang University (HYU), Korea in February 2008.
+    - title: Career Profile
+      summary: Myong Kong is currently a Master student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab. His current research area is CAD & ML for Physical Design. Before joining POSTECH, he received a Bachelor of Science degree at Hanyang University (HYU), Korea in February 2008.
             
 education:
     - degree: MSc in electrical engineering
